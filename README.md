@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Tecnologias que estou aprendendo
+### 🛠️ Learning..
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -29,16 +29,27 @@
 
 ### 🌸 Sobre mim
 
-Sou uma pessoa criativa, apaixonada por tecnologia e em constante aprendizado.
+- Information Systems student currently in the fourth semester, with a solid academic foundation in software development, databases, and systems analysis.
 
+- Software Development Intern at the Autoglass Group, working on web application development using C# and the .NET ecosystem, following good coding practices and organizational standards.
+
+- Experience with backend development, including business rules implementation, validations, and service-layer logic.
+
+- Knowledge of relational databases and SQL, including data modeling, queries, and data manipulation.
+
+- Front-end experience using HTML, CSS, and JavaScript to build structured, responsive, and user-friendly interfaces.
+
+- Currently learning Angular, focusing on component-based architecture, data binding, and integration with backend APIs.
+
+Continuous learner, always seeking to improve technical skills, understand new technologies, and apply best practices in real-world projects.
 ---
 
-### 📫 Onde me encontrar
+### 📫 Find me!
 - 💼 Linkedin: https://www.linkedin.com/in/amanda-rosario-30848932a/
-- 💻 Repositórios: [github.com/Amandarosariodn](https://github.com/Amandarosariodn)
+- 💻 Repositories: [github.com/Amandarosariodn](https://github.com/Amandarosariodn)
 
 ---
 
 <p align="center">
-  Feito com 💖 por <strong>Amanda Rosario</strong> <br/>
+  Made with 💖 by <strong>Amanda Rosario</strong> <br/>
 </p>
