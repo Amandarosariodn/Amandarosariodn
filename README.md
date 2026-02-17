@@ -1,7 +1,7 @@
 <h1 align="center">Oi! Eu sou a Amanda Rosario 🪷</h1>
 
 <p align="center">
-  💻 Estudante de Sistemas de Informação (3º período)  
+  💻 Estudante de Sistemas de Informação (4º período)  
   <br/>
   📍 Vila Velha - ES  
 
