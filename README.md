@@ -19,9 +19,7 @@
 <br/>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amandarosariodn&show_icons=true&theme=moltack&hide_border=true&title_color=7F77DD&icon_color=1D9E75" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandarosariodn&layout=compact&theme=moltack&hide_border=true&title_color=7F77DD" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandarosariodn&layout=compact&theme=moltack&hide_border=true&title_color=7F77DD" />
 </p>
 
 ---
